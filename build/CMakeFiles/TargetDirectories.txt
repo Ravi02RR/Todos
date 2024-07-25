@@ -1,0 +1,5 @@
+/home/ravi/Desktop/Koding/Compitative Coding/Todos/build/CMakeFiles/edit_cache.dir
+/home/ravi/Desktop/Koding/Compitative Coding/Todos/build/CMakeFiles/rebuild_cache.dir
+/home/ravi/Desktop/Koding/Compitative Coding/Todos/build/backend/CMakeFiles/server.dir
+/home/ravi/Desktop/Koding/Compitative Coding/Todos/build/backend/CMakeFiles/edit_cache.dir
+/home/ravi/Desktop/Koding/Compitative Coding/Todos/build/backend/CMakeFiles/rebuild_cache.dir
